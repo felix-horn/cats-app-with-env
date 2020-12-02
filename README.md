@@ -4,6 +4,8 @@
 
 Boilerplate for Create-React-App with an Express.js API
 
+**This project can be deployed over Heroku or Vercel**
+
 # Installation
 
 ```
